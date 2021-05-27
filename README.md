@@ -3,16 +3,14 @@ RelationshipMining 选择1个数据集进行频繁模式和关联规则挖掘
 <br>
 <p>文件介绍:<br>
 <p>RS_Mining.py 文件为源码
-<p>RS_Mining.pdf文件为实验分析报告
-<p>RS_Mining.ipynb文件未Jupyter Notebook格式文件
-<p>generate_rules.txt为实验生成的关系规则文件
+<p>RS_Mining.pdf 文件为实验分析报告
+<p>RS_Mining.ipynb 文件是Jupyter Notebook格式文件
+<p>generate_rules.txt 为实验生成的关系规则文件
 <br>
 <p>环境:<br>
 
 * pyCharm <br>
-  
 * Anaconda(主要使用Jupyter Notebook以及作为该项目Interpreter) <br>
-
 * python3.6 <br>
 
 <br>
