@@ -10,7 +10,7 @@ RelationshipMining 选择1个数据集进行频繁模式和关联规则挖掘
 <p>环境:<br>
 
 * pyCharm <br>
-* Anaconda(主要使用Jupyter Notebook以及作为该项目Interpreter) <br>
+* Anaconda+Jupyter Notebook <br>
 * python3.6 <br>
 
 <br>
@@ -31,7 +31,7 @@ RelationshipMining 选择1个数据集进行频繁模式和关联规则挖掘
   
 * 2.3 生成关联规则，计算其支持度和置信度<br>
   
-* 2.4 对规则进行评价，可使用Lift、卡方和其它教材中提及的指标，至少2种（这里采用了3中评价指标分别是：Lift、KULC、IR）<br>
+* 2.4 对规则进行评价，可使用Lift、卡方和其它教材中提及的指标，至少2种（这里采用了3种评价指标分别是：Lift、KULC、IR）<br>
 
 * 2.5 对挖掘结果进行分析<br>
 
